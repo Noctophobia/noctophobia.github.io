@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'delirium.engineering'
+url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: noctophobia.github.io
+baseurl: 
 
 # Title of the Site
 title: Delirium engineering
