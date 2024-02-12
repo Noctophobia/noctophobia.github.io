@@ -1,10 +1,11 @@
+remote_theme: WhatATheme
 # WhatATheme
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'delirium.engineering'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: https://delirium.engineering/
 
 # Title of the Site
 title: What A Theme
